@@ -1,7 +1,6 @@
-import AddTodo from "src/components/AddTodo.jsx"
+import AddTodo from "./components/addTodo"
 import ClearAllTodo from "./components/ClearAllTodo"
 import Todos from "./components/todos"
-
 
 function App() {
 
