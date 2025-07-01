@@ -1,4 +1,4 @@
-import AddTodo from "./components/AddTodo.jsx"
+import AddTodo from "./components/AddTodo"
 import ClearAllTodo from "./components/ClearAllTodo"
 import Todos from "./components/todos"
 
